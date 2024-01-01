@@ -9,5 +9,10 @@ section{
     background-color: aliceblue;
 }
 .ancho{
-    
+    background-color: blue;
+    width: 60%;
+    height: 1000px;
+}
+.login{
+    background-color: chartreuse;
 }
