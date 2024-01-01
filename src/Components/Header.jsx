@@ -1,7 +1,9 @@
 // import  "../styles/Header.css"
 import { FaEnvelope } from "react-icons/fa";
-
 import { FiPhone } from "react-icons/fi";
+import { FaFacebook } from "react-icons/fa";
+import { FaLinkedin } from "react-icons/fa6";
+
 
 
 const Header = () => {
@@ -12,7 +14,9 @@ const Header = () => {
         <p className="flex items-center "> <FaEnvelope />jabow@hfkjbkkbkn</p>
         </div>
         <div>
-          
+        <FaFacebook />
+        <FaLinkedin />
+
         </div>
        </div>
 
