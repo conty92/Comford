@@ -4,6 +4,7 @@ import { FiPhone } from "react-icons/fi";
 import { FaFacebook } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa6";
 import { FaSquareInstagram } from "react-icons/fa6";
+import { FaSquareTwitter } from "react-icons/fa6";
 
 
 
